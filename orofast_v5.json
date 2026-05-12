@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "balance": 1000,
+      "role": "admin",
+      "referrals": 0,
+      "miningEnd": null
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "انضم لقناة التلجرام",
+      "reward": 50,
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "تابعنا على تويتر",
+      "reward": 30,
+      "link": "#"
+    }
+  ],
+  "global_stats": {
+    "total_mined": 0
+  }
+}
