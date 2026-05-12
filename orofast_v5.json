@@ -4,10 +4,10 @@
       "id": 1,
       "username": "admin",
       "password": "admin",
-      "balance": 1000,
+      "balance": 1010,
       "role": "admin",
       "referrals": 0,
-      "miningEnd": null
+      "miningEnd": "2026-05-13T17:40:45.818Z"
     }
   ],
   "tasks": [
