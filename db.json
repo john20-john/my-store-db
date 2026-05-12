@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "id": 2,
-      "name": "سماعة سوني XM5",
-      "price": 12000,
-      "img": "https://placehold.co/400x400/10b981/white?text=Sony+XM5"
-    },
-    {
       "id": 1778607292419,
       "name": "apple wath",
       "price": 2760,
