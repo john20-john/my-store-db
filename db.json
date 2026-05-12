@@ -1,1 +1,29 @@
-{"products":[{"id":2,"name":"سماعة سوني XM5","price":12000,"img":"https://placehold.co/400x400/10b981/white?text=Sony+XM5"}]}
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "سماعة سوني XM5",
+      "price": 12000,
+      "img": "https://placehold.co/400x400/10b981/white?text=Sony+XM5"
+    }
+  ],
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "username": "john",
+      "password": "12345678",
+      "role": "user",
+      "joined": "2026-05-12T17:33:03.250Z"
+    }
+  ],
+  "orders": [],
+  "settings": {
+    "storeName": "متجري الذكي",
+    "currency": "ج.م",
+    "themeColor": "#4f46e5"
+  }
+}
