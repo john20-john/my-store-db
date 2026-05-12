@@ -1,0 +1,1 @@
+{"users":[{"id":"OF-ADMIN","user":"admin","pass":"admin123","balance":1000000,"currency":"USD","role":"admin","referrals":0,"earnings":0,"ref_code":"ADMIN-REF"}],"deposits":[],"withdrawals":[],"config":{"rate":55,"v_reward":0.1,"lang":"en"}}
