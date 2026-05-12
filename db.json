@@ -20,7 +20,47 @@
       "joined": "2026-05-12T17:33:03.250Z"
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "id": "ORD-1778607196291",
+      "customer": "john",
+      "items": [
+        {
+          "id": 2,
+          "name": "سماعة سوني XM5",
+          "price": 12000,
+          "img": "https://placehold.co/400x400/10b981/white?text=Sony+XM5"
+        },
+        {
+          "id": 2,
+          "name": "سماعة سوني XM5",
+          "price": 12000,
+          "img": "https://placehold.co/400x400/10b981/white?text=Sony+XM5"
+        },
+        {
+          "id": 2,
+          "name": "سماعة سوني XM5",
+          "price": 12000,
+          "img": "https://placehold.co/400x400/10b981/white?text=Sony+XM5"
+        },
+        {
+          "id": 2,
+          "name": "سماعة سوني XM5",
+          "price": 12000,
+          "img": "https://placehold.co/400x400/10b981/white?text=Sony+XM5"
+        },
+        {
+          "id": 2,
+          "name": "سماعة سوني XM5",
+          "price": 12000,
+          "img": "https://placehold.co/400x400/10b981/white?text=Sony+XM5"
+        }
+      ],
+      "total": 60000,
+      "date": "١٢‏/٥‏/٢٠٢٦، ٨:٣٣:١٦ م",
+      "status": "قيد التنفيذ"
+    }
+  ],
   "settings": {
     "storeName": "متجري الذكي",
     "currency": "ج.م",
